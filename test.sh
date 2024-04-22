@@ -6,8 +6,8 @@ make main
 
 echo ">>> Program start <<<"
 {
-    echo "Dylan"
-    echo "Beppu"
+    echo "Akio"
+    echo "Yamamoto"
     echo "Jan Doe"
 
 
